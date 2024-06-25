@@ -1,0 +1,29 @@
+.button {
+  border: 1px solid #FFFFFF;
+  width : 160px;
+  height: 60px;
+  border-radius: 5px 5px;
+  background-color: black;
+  color: #FFFFFF;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px 0px grey;
+}
+
+.button:hover {
+  background-color: #FFFFFF;
+  color: #000000;
+  font-weight: bolder;
+}
+ul li{
+  color: #9C9C9C;
+  cursor:pointer;
+}
+ul li:hover{
+  color: #FFFFFF;
+  font-weight: bolder;
+}
+
+header img{
+  cursor: pointer;
+}
+
