@@ -36,7 +36,8 @@ const App = () => {
     setHover(false);
   };
   return (
-    <div>
+    <body style={{margin:'0px', padding:"0px"}}>
+      <div style={{margin:"0px", padding:"0px"}}>
       <div style={{ backgroundColor: "#080808" }}>
         <header
           style={{
@@ -904,6 +905,10 @@ const App = () => {
 
      
     </div>
+      
+
+    </body>
+    
   );
 };
 
